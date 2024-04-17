@@ -1,0 +1,13 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+}
+
+.header__menu {
+  display: flex;
+  gap: 15px;
+  align-items: center;
+  list-style: none;
+}

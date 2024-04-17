@@ -1,0 +1,10 @@
+.item-menu {
+  padding: 10px;
+  border-radius: 10px;
+  border-bottom: 0.5px solid #FFF;
+}
+
+.item-menu__link {
+  color: #FFF;
+  text-decoration: none;
+}
